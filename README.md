@@ -2,7 +2,7 @@
 
 # week06
 # 畫星星
-'''cpp
+```cpp
 #include <stdio.h>
 int main()
 {
@@ -13,10 +13,10 @@ int main()
         printf("i:%d星星\n", i);
     }
 }
-'''
+```
 
 # 星星金字塔
-'''cpp
+```cpp
 #include <stdio.h>
 int main()
 {
@@ -27,10 +27,10 @@ int main()
         printf("\n");
     }
 }
-'''
+```
 
 # 最小公因數
-'''cpp
+```cpp
 #include <stdio.h>
 int main()
 {
@@ -46,10 +46,10 @@ int main()
     }
     printf("ans: %d 可約分", ans);
 }
-'''
+```
 
 # 輾轉相除法
-'''cpp
+```cpp
 #include <stdio.h>
 int main()
 {
@@ -64,4 +64,4 @@ int main()
     }
     printf("答案b: %d ", b);
 }
-'''
+```
