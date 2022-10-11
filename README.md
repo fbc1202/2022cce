@@ -29,7 +29,7 @@ int main()
 }
 ```
 
-# 最小公因數
+# 最大公因數
 ```cpp
 #include <stdio.h>
 int main()
