@@ -27,8 +27,8 @@ int main()
         printf("\n");
     }
 }
-
 '''
+
 # 最小公因數
 '''cpp
 #include <stdio.h>
